@@ -1,0 +1,16 @@
+Archivo guardado: ventas_2023.csv (filas=365)
+
+Resumen estadístico:
+Total ventas: 362,633.65
+Promedio venta: 993.52
+Máx venta: 1,964.62
+Mín venta: 329.35
+
+Matriz de correlación (monto, cantidad):
+             monto  cantidad
+monto     1.000000  0.060192
+cantidad  0.060192  1.000000
+Gráfico guardado: tendencia_mensual.png
+Gráfico guardado: ventas_por_mes.png
+
+Proceso completado.

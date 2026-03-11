@@ -1,2 +1,3 @@
-# big_data_mining_16_01_2026_T2
-Task 2 for the course Big Data Mining (Minería para Big Data) de la Maestría en Ciencia de Datos y Analítica - UNAD (Periodo 16-01, Año 2026)
+# Big Data Mining - Taks 2
+
+Task 2 for the course Big Data Mining (Minería para Big Data) of the Data Science and Analytics Masters Degree - UNAD (16-01 - 2026)
